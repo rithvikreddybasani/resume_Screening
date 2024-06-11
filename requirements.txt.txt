@@ -1,0 +1,5 @@
+numpy
+matplotlib
+streamlit==0.64.0
+nltk
+pickle
